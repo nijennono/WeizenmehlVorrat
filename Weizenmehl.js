@@ -205,7 +205,7 @@ async function getImage(image) {
         let imageUrl
         switch (image) {
             case 'dm-logo.png':
-                imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dm_Logo.svg/300px-Dm_Logo.svg.png"
+                imageUrl = "https://i.imgur.com/sVvV1fq.png"
                 break
             default:
                 console.log(`Sorry, couldn't find ${image}.`);
